@@ -1,14 +1,14 @@
 {
-  "name": "Cinny",
-  "short_name": "Cinny",
-  "description": "Yet another matrix client",
+  "name": "Varanda",
+  "short_name": "Varanda",
+  "description": "Chat da Varanda",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "pt-BR",
   "display": "standalone",
   "orientation": "portrait",
   "start_url": "./",
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#f4f1ea",
+  "theme_color": "#1f6b3f",
   "icons": [
     {
       "src": "./public/android/android-chrome-36x36.png",
